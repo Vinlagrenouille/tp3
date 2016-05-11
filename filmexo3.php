@@ -1,9 +1,8 @@
 /*
-  clarté -->4
-  fonctionnement-->4
+  a/clarte -->0,5
+  b/fonctionnement-->0
   c/-->0
 */
-
 
 <!DOCTYPE html>
 <html>

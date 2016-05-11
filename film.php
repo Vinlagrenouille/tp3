@@ -1,3 +1,11 @@
+/*
+  a/clarté -->4
+  b/fonctionnement -->4
+  c/ --> 0,5
+*/
+
+
+
 <!DOCTYPE html>
 <html>
 
@@ -18,7 +26,7 @@
       </tr>
     </thead>
     <?php
-      $link = mysqli_connect("sql7.freemysqlhosting.net","sql7119022","3FMy1XLWrE","sql7119022");
+      $link = mysqli_connect("sql7.freemysqlhosting.net","sql7119022","3FMy1XLWrE","sql7119022"); 
       if(!$link){
         die("<p>Connexion au serveur impossible</p>");
       }
